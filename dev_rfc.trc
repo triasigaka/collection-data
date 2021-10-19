@@ -1,0 +1,11 @@
+
+**** Trace file opened at 2021-10-19, 05:40:20 GMT
+ RFC library: 721, Current working directory: /opt/app-root/src/storage/git-img, Program: php
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 5.10.47-linuxkit, Kernel_release: 721 patchlevel 39
+ Hostname: 237ed5cc238c, IP address: 172.17.0.3, IP address_v6: 172.17.0.3
+
+ERROR The UUID daemon (uuidd) is not active.
+
+Please ask your system administrator to activate 
+uuidd according to SAP note 1391070.
+
