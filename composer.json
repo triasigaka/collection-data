@@ -1,0 +1,26 @@
+{
+    "name": "triasigaka/collection-data",
+    "description": "Collection Vol Data",
+    "keywords": ["model", "data", "collection", "js"],
+    "homepage": "https://github.com/triasigaka",
+    "type": "helper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tria Sigaka",
+            "email": "triasigaka@gmail.com"
+        }
+    ],
+	"repositories":[
+		{
+			"type": "git",
+			"url": "https://github.com/triasigaka/collection-data"
+		}
+	],
+    "autoload": {
+        "psr-4": {
+            "triasigaka\\": ""
+        }
+    },
+	"minimum-stability": "dev"
+}
